@@ -13,6 +13,14 @@ http://iptv.tvfix.org/hls/finance.m3u8
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
 http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="新闻",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",中.天新 闻
@@ -25,14 +33,7 @@ http://iptv.tvfix.org/hls/natlgeo.m3u8
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="新闻",翡.翠台-串流
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
