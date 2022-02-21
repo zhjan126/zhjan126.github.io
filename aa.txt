@@ -27,6 +27,10 @@ http://iptv.tvfix.org/hls/tvbsnews.m3u8
 http://iptv.tvfix.org/hls/ztxw.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻
 http://iptv.tvfix.org/hls/dsxw.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD（粤）
+http://iptv.tvfix.org/hls/hbo.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD
+http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="新闻",Discovery
