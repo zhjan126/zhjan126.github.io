@@ -125,15 +125,6 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 group-title="01央视频道" tvg-logo="https://img.alicdn.com/imgextra/i2/49434545/O1CN01HIDAoq1jReq9c7wZV_!!49434545.png",CCTV4K
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台1",翡翠台
-http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台1",明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台1",J2
-http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台1",无线新闻
-http://iptv.tvfix.org/hls/inews.m3u8
-
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台1",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
