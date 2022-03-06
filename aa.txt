@@ -52,16 +52,29 @@ http://iptv.tvfix.org/hls/animal.m3u8
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="代理",HKC有线财经资讯
 https://api.leonardpark.dev/live/icable/108
-
 #EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="代理",NOW新闻台
 https://api.leonardpark.dev/live/now/332
-#EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="代理",NOW新闻台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="代理",翡翠台-串流
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="代理",无线新闻-串流
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/三立新闻.png" tvg-name="三立新闻台" group-title="台湾地区",三立Live
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" tvg-name="中天新闻台" group-title="台湾地区",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" tvg-name="TVBS新闻台" group-title="台湾地区",TVBS新闻
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/东森新闻.png" tvg-name="东森新闻台" group-title="台湾地区",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" tvg-name="TVBS新闻台" group-title="台湾地区",TVBS新闻
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/壹新闻.png" tvg-name="壹电视新闻台" group-title="台湾地区",壹电视新闻台
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/民视新闻台.png" tvg-name="民视新闻台" group-title="台湾地区",民视新闻台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/华视新闻资讯.png" tvg-name="华视新闻台" group-title="台湾地区",华视新闻台
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+
 #EXTINF:-1 group-title="CCTV",CCTV-1高清
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-1HK版高清
