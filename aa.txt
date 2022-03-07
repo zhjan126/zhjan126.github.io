@@ -65,12 +65,18 @@ http://iptv.tvfix.org/hls/cnn.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="代理测试",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="代理测试",无线新闻台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="代理测试",无线
+http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="代理测试",HKC有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="代理测试",HKC有线财经资讯
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="代理测试",NOW新闻台
 https://api.leonardpark.dev/live/now/332
+#EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="代理测试",NOW新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="代理测试",翡翠台-串流
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="代理测试",无线新闻-串流
