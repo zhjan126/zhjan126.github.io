@@ -7,7 +7,8 @@ http://iptv.tvfix.org/hls/pearl.m3u8
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
 http://iptv.tvfix.org/hls/inews.m3u8
-
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
+https://flv3948069e.live.126.net/live/51109d21dae48f1a594bfca518f330cc.flv
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台-需要代理
 https://api.leonardpark.dev/live/icable/109
@@ -46,8 +47,13 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
 
+
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="新闻",寰宇新闻
+https://flv3948069e.live.126.net/live/25e192d0c7714ba69c44498acbf0fd12.flv
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="新闻",中视新闻
+https://flv3948069e.live.126.net/live/607ca5183b54ae90b6d0d2152c922bdb.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" tvg-name="中天新闻台" group-title="新闻",中天新闻
-https://tv1.6zxr.xyz/1/ztxw/hls/index.m3u8
+https://flv3948069e.live.126.net/live/24ca6d596e3cc89b568528413b452691.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/东森新闻.png" tvg-name="东森新闻台" group-title="新闻",东森新闻台
 https://tv1.6zxr.xyz/1/dsxw/hls/index.m3u8
 
