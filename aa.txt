@@ -10,13 +10,8 @@ http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="新闻",无线财经
 http://iptv.tvfix.org/hls/finance.m3u8
 
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
-rtmp://v3948069e.live.126.net/live/8ad6da5302022e3a8b67ccc9848614e/ggbox/index
-
-
-
-#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="新闻",TVB星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="新闻",香港开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新闻",Bloomberg TV
@@ -47,7 +42,19 @@ http://iptv.tvfix.org/hls/natlgeo.m3u8
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 ,乌克兰新闻
+http://iptv.tvfix.org/hls/prmua.m3u8
+#EXTINF:-1 ,今日俄罗斯
+http://iptv.tvfix.org/hls/rt.m3u8
+#EXTINF:-1 ,BBC新闻
+http://iptv.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 ,CNN新闻
+http://iptv.tvfix.org/hls/cnn.m3u8
 
+
+
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="代理",无线新闻台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="代理",HKC有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="有线财经资讯台" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="代理",HKC有线财经资讯
