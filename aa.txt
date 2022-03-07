@@ -34,10 +34,7 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="新闻",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻",中.天新 闻
-http://iptv.tvfix.org/hls/ztxw.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻
-http://iptv.tvfix.org/hls/dsxw.m3u8
+
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD（粤）
 http://iptv.tvfix.org/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD
