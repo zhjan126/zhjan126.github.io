@@ -45,6 +45,12 @@ http://iptv.tvfix.org/hls/natlgeo.m3u8
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" tvg-name="中天新闻台" group-title="新闻",中天新闻
+https://tv1.6zxr.xyz/1/ztxw/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/东森新闻.png" tvg-name="东森新闻台" group-title="新闻",东森新闻台
+https://tv1.6zxr.xyz/1/dsxw/hls/index.m3u8
+
 #EXTINF:-1 ,乌克兰新闻
 http://iptv.tvfix.org/hls/prmua.m3u8
 #EXTINF:-1 ,今日俄罗斯
@@ -74,8 +80,6 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新闻.png" tvg-name="中天新闻台" group-title="代理测试",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" tvg-name="TVBS新闻台" group-title="代理测试",TVBS新闻
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/东森新闻.png" tvg-name="东森新闻台" group-title="代理测试",东森新闻台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" tvg-name="TVBS新闻台" group-title="代理测试",TVBS新闻
