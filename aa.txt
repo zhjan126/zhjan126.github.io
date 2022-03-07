@@ -7,19 +7,19 @@ http://iptv.tvfix.org/hls/pearl.m3u8
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="新闻",无线财经
-http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="新闻",香港开电视
-http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
-http://iptv.tvfix.org/hls/viutv.m3u8
+
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台-需要代理
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻",NOW新闻台-需要代理
 https://api.leonardpark.dev/live/now/332
 
-
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="新闻",无线财经
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="新闻",香港开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
+http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新闻",Bloomberg TV
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新闻",Bloomberg TV Europe
