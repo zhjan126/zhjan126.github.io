@@ -16,33 +16,33 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="新闻",翡翠台
-http://tv.mc33.workers.dev/hls/jade.m3u8
+http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="新闻",明珠台
-http://tv.mc33.workers.dev/hls/pearl.m3u8
+http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="新闻",J2
-http://tv.mc33.workers.dev/hls/j2.m3u8
+http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
-http://tv.mc33.workers.dev/hls/inews.m3u8
+http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="新闻",无线财经
-http://tv.mc33.workers.dev/hls/finance.m3u8
+http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="新闻",香港开电视
-http://tv.mc33.workers.dev/hls/opentv.m3u8
+http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
-http://tv.mc33.workers.dev/hls/viutv.m3u8
+http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理
-http://tv.mc33.workers.dev/hls/natlgeo.m3u8
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="新闻",Discovery
-http://tv.mc33.workers.dev/hls/discovery.m3u8
+http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
-http://tv.mc33.workers.dev/hls/animal.m3u8
+http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="新闻",美亚电影台
-http://tv.mc33.workers.dev/hls/mydy.m3u8
+http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD
-http://tv.mc33.workers.dev/hls/hbo.m3u8
+http://iptv.tvfix.org/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD Hits
-http://tv.mc33.workers.dev/hls/hbohits.m3u8
+http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD Family
-http://tv.mc33.workers.dev/hls/family.m3u8
+http://iptv.tvfix.org/hls/family.m3u8
 
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新闻",Bloomberg TV
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
