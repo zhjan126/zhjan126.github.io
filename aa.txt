@@ -14,31 +14,12 @@ https://dm1133.kglink.xyz/live/01
 https://dm1133.kglink.xyz/live/03
 #EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻",NOW新闻台
 https://dm1133.kglink.xyz/live/05
-
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="新闻",无线财经
 https://dm1133.kglink.xyz/live/02
-
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="新闻",明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="新闻",香港开电视
 https://dm1133.kglink.xyz/live/06
 
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
-http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="新闻",Discovery
-http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="新闻",动物星球
-http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="新闻",美亚电影台
-http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD
-http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD Hits
-http://iptv.tvfix.org/hls/hbohits.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="新闻",HBO HD Family
-http://iptv.tvfix.org/hls/family.m3u8
+
 
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="新闻",Bloomberg TV
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
