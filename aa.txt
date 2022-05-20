@@ -12,8 +12,6 @@ http://120.84.96.20:808/hls/25/index.m3u8
 http://120.84.96.29:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
 https://dm1133.kglink.xyz/live/01
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
-http://live.tvfix.org/hls/inews_v.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
 https://dm1133.kglink.xyz/live/03
 #EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻",NOW新闻台
