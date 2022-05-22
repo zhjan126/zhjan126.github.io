@@ -10,8 +10,10 @@ https://tv.zhku.tk//hls/jadehk.m3u8
 http://120.84.96.20:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="新闻",J2
 http://120.84.96.29:808/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台1",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="新闻",明珠台
 https://tv.zhku.tk//hls/pearl2.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="CCTV-9高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="新闻",CCTV-9高清CF
+https://tv.zhku.tk//hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻CF
 https://tv.zhku.tk//hls/inews.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
