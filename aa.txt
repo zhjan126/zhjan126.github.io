@@ -27,8 +27,10 @@ https://dm1133.kglink.xyz/live/06
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV
 https://tv.zhku.tk//hls/viutv.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="CCTV-9高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="新闻",CCTV-9高清CF
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="新闻",CCTV-9 CF
 https://tv.zhku.tk//hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="新闻",CCTV10 CF
+https://tv.zhku.tk//hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理CF
 https://tv.zhku.tk//hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="新闻",Discovery CF
