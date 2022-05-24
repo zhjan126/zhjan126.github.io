@@ -60,9 +60,12 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 http://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻",NOW新闻台-需要代理
 http://api.leonardpark.dev/live/now/332
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="新闻",J2
-http://iptv.tvfix.org/hls/j2.m3u8
-
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="新闻",翡翠台 PC测试
+http://192.168.0.8:8000/hls/jadehk.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="新闻",J2 PC测试
+http://192.168.0.8:8000/hls/j2.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻 PC测试
+http://192.168.0.8:8000/hls/inews.m3u8
 
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
