@@ -66,6 +66,26 @@ http://192.168.0.8:8000/hls/jadehk.m3u8
 http://192.168.0.8:8000/hls/j2.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻 PC测试
 http://192.168.0.8:8000/hls/inews.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="新闻",CCTV-9 PC测试
+http://192.168.0.8:8000/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="新闻",CCTV10 PC测试
+http://192.168.0.8:8000/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新闻",国家地理 PC测试
+http://192.168.0.8:8000/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="新闻",Discovery PC测试
+http://192.168.0.8:8000/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png"group-title="新闻",Discovery科学 PC测试
+http://192.168.0.8:8000/hls/discoverysci.m3u8
+#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="新闻",动物星球
+http://192.168.0.8:8000/hls/animal2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="新闻",BBCEarth
+http://192.168.0.8:8000/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BfOBypW.jpg" group-title="新闻",BBCLifestyle
+http://192.168.0.8:8000/hls/bbclifestyle.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="新闻",BBC World News
+http://192.168.0.8:8000/hls/bbcnews.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
+http://192.168.0.8:8000/hls/cnn.m3u8
 
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
