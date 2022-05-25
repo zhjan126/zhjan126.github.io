@@ -46,6 +46,33 @@ https://tv.zhku.tk//hls/viutv.m3u8
 https://tv.zhku.tk//hls/rthk31.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
 https://tv.zhku.tk//hls/rthk32.m3u8
+#EXTINF:-1 group-title="香港",TVB功夫台(粤语)
+https://tv.zhku.tk//hls/tvbkf.m3u8
+#EXTINF:-1 group-title="香港",黄金翡翠台
+https://tv.zhku.tk//hls/jadegold.m3u8
+#EXTINF:-1 group-title="香港",娱乐新闻台
+https://tv.zhku.tk//hls/enews.m3u8
+#EXTINF:-1 group-title="香港",TVB亚洲综艺台
+https://tv.zhku.tk//hls/tvbzy.m3u8
+#EXTINF:-1 group-title="香港",TVB华语剧台
+https://tv.zhku.tk//hls/tvbhy.m3u8
+#EXTINF:-1 group-title="香港",TVB亚洲剧台
+https://tv.zhku.tk//hls/tvbyz.m3u8
+#EXTINF:-1 group-title="香港",TVB戏曲台
+https://tv.zhku.tk//hls/tvbxq.m3u8
+#EXTINF:-1 group-title="香港",美亚电影台(粤语)
+https://tv.zhku.tk//hls/mydy.m3u8
+#EXTINF:-1 group-title="香港",美亚电影台(普通话)
+https://tv.zhku.tk//hls/mydy2.m3u8
+#EXTINF:-1 group-title="香港",天映经典
+https://tv.zhku.tk//hls/tyjd.m3u8
+#EXTINF:-1 group-title="香港",天映经典(第2声道)
+https://tv.zhku.tk//hls/tyjd2.m3u8
+#EXTINF:-1 group-title="香港",天映频道
+https://tv.zhku.tk//hls/typd.m3u8
+#EXTINF:-1 group-title="香港",卫视电影台
+https://tv.zhku.tk//hls/starmovies.m3u8
+
 
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="纪录频道",CCTV-9
 https://tv.zhku.tk//hls/cctv9hd.m3u8
