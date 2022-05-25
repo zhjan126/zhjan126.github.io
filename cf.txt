@@ -1,0 +1,298 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="新闻频道",凤凰中文
+https://tv.zhku.tk//hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="新闻频道",凤凰资讯
+https://tv.zhku.tk//hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻频道",无线新闻
+https://tv.zhku.tk//hls/inews.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻频道",HKC有线新闻台
+https://dm1133.kglink.xyz/live/03
+#EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻频道",NOW新闻台
+https://dm1133.kglink.xyz/live/05
+#EXTINF:-1 group-title="新闻频道",CCTV-13高清
+https://tv.zhku.tk//hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="新闻频道",无线新闻台
+https://tv.zhku.tk//hls/inews.m3u8
+#EXTINF:-1 group-title="新闻频道",娱乐新闻台
+https://tv.zhku.tk//hls/enews.m3u8
+#EXTINF:-1 group-title="新闻频道",BBC新闻频道
+https://tv.zhku.tk//hls/bbcnews.m3u8
+#EXTINF:-1 group-title="新闻频道",CNN新闻频道
+https://tv.zhku.tk//hls/cnn.m3u8
+#EXTINF:-1 group-title="新闻频道",今日俄罗斯电视台
+https://tv.zhku.tk//hls/rt.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K 14M2160HDR
+https://tv.zhku.tk//hls/cctv4k.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
+https://tv.zhku.tk//hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-港澳版
+https://tv.zhku.tk//hls/cctv1hdhk.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2-财经频道
+https://tv.zhku.tk//hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+https://tv.zhku.tk//hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+https://tv.zhku.tk//hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5-体育频道
+https://tv.zhku.tk//hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+https://tv.zhku.tk//hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6-电影频道
+https://tv.zhku.tk//hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7-国防军事
+https://tv.zhku.tk//hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+https://tv.zhku.tk//hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9-记录频道
+https://tv.zhku.tk//hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10-科教频道
+https://tv.zhku.tk//hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11-戏曲频道
+https://tv.zhku.tk//hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12-社会与法
+https://tv.zhku.tk//hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13-新闻频道
+https://tv.zhku.tk//hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+https://tv.zhku.tk//hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15-音乐频道
+https://tv.zhku.tk//hls/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+https://tv.zhku.tk//hls/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17-农村频道
+https://tv.zhku.tk//hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV-世界地理
+https://tv.zhku.tk//hls/cctvsjdlhd.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV-风云剧场
+https://tv.zhku.tk//hls/cctvfyjchd.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV-风云足球
+https://tv.zhku.tk//hls/cctvfyzqhd.m3u8
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV-女性时尚
+https://tv.zhku.tk//hls/cctvnxjkhd.m3u8
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",CCTV-高尔夫网球
+https://tv.zhku.tk//hls/cctvgefwqhd.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
+https://tv.zhku.tk//hls/gdhd.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
+https://tv.zhku.tk//hls/szhd.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
+https://tv.zhku.tk//hls/ahhd.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
+https://tv.zhku.tk//hls/brtv1hd.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
+https://tv.zhku.tk//hls/dnhd.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视
+https://tv.zhku.tk//hls/gxhd.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
+https://tv.zhku.tk//hls/gzhd.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="卫视频道",海南卫视
+https://tv.zhku.tk//hls/lyhd.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
+https://tv.zhku.tk//hls/hnhd.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
+https://tv.zhku.tk//hls/hljhd.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
+https://tv.zhku.tk//hls/hbhd.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
+https://tv.zhku.tk//hls/hunanhd.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
+https://tv.zhku.tk//hls/jshd.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
+https://tv.zhku.tk//hls/jxhd.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
+https://tv.zhku.tk//hls/lnhd.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
+https://tv.zhku.tk//hls/sdhd.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
+https://tv.zhku.tk//hls/schd.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
+https://tv.zhku.tk//hls/tjhd.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
+https://tv.zhku.tk//hls/zjhd.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视 
+https://tv.zhku.tk//hls/cqhd.m3u8
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="特色频道",CHC动作电影
+https://tv.zhku.tk//hls/chcatv.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="特色频道",CHC家庭影院
+https://tv.zhku.tk//hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="特色频道",CHC高清影院
+https://tv.zhku.tk//hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gd_tiyu.png" group-title="特色频道",广东体育
+https://tv.zhku.tk//hls/gdtyhd.m3u8
+#EXTINF:-1 group-title="特色频道",纪实人文高清
+https://tv.zhku.tk//hls/docuchina.m3u8
+#EXTINF:-1 group-title="特色频道",金鹰卡通
+https://tv.zhku.tk//hls/jykttv.m3u8
+#EXTINF:-1 group-title="特色频道",劲爆体育高清
+https://tv.zhku.tk//hls/jbtyhd.m3u8
+#EXTINF:-1 group-title="特色频道",魅力足球高清
+https://tv.zhku.tk//hls/mlzqhd.m3u8
+#EXTINF:-1 group-title="特色频道",全纪实高清
+https://tv.zhku.tk//hls/qjshd.m3u8
+#EXTINF:-1 group-title="特色频道",五星体育高清
+https://tv.zhku.tk//hls/wxtyhd.m3u8
+#EXTINF:-1 group-title="特色频道",新动漫
+https://tv.zhku.tk//hls/xdmtv.m3u8
+#EXTINF:-1 group-title="特色频道",新视觉高清
+https://tv.zhku.tk//hls/xsjhd.m3u8
+#EXTINF:-1 group-title="特色频道",优漫卡通
+https://tv.zhku.tk//hls/ymkttv.m3u8
+#EXTINF:-1 group-title="特色频道",游戏风云高清
+https://tv.zhku.tk//hls/yxfyhd.m3u8
+#EXTINF:-1 group-title="特色频道",足球频道
+https://tv.zhku.tk//hls/zqhd.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+https://tv.zhku.tk//hls/jadehk.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台海外版
+https://tv.zhku.tk//hls/jadenhk.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
+https://tv.zhku.tk//hls/j2.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
+https://tv.zhku.tk//hls/pearl.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台 (第2声道)
+https://tv.zhku.tk//hls/pearl2.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",无线新闻
+https://tv.zhku.tk//hls/inews.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
+https://tv.zhku.tk//hls/finance.m3u8
+#EXTINF:-1 group-title="香港"  tvg-name="TVB Xing He HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河频道
+https://tv.zhku.tk//hls/tvbxh.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB经典台
+https://tv.zhku.tk//hls/tvbjd.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
+https://dm1133.kglink.xyz/live/06
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",VIUTV CF
+https://tv.zhku.tk//hls/viutv.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
+https://tv.zhku.tk//hls/rthk31.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
+https://tv.zhku.tk//hls/rthk32.m3u8
+
+#EXTINF:-1 group-title="电影频道",CCTV-6高清
+https://tv.zhku.tk//hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="电影频道",CHC高清电影
+https://tv.zhku.tk//hls/chchd.m3u8
+#EXTINF:-1 group-title="电影频道",美亚电影台(普通话)
+https://tv.zhku.tk//hls/mydy2.m3u8
+#EXTINF:-1 group-title="电影频道",美亚电影台(粤语)
+https://tv.zhku.tk//hls/mydy.m3u8
+#EXTINF:-1 group-title="电影频道",天映频道
+https://tv.zhku.tk//hls/typd.m3u8
+#EXTINF:-1 group-title="电影频道",卫视电影台
+https://tv.zhku.tk//hls/starmovies.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(粤语繁体)
+https://tv.zhku.tk//hls/hbo.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(粤语简体)
+https://tv.zhku.tk//hls/hbo2.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(普通话繁体)
+https://tv.zhku.tk//hls/hbo3.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(普通话简体)
+https://tv.zhku.tk//hls/hbo4.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(英语繁体)
+https://tv.zhku.tk//hls/hbo5.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(英语简体)
+https://tv.zhku.tk//hls/hbo6.m3u8
+#EXTINF:-1 group-title="电影频道",HBO(英语英文)
+https://tv.zhku.tk//hls/hbo7.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(粤语繁体)
+https://tv.zhku.tk//hls/hbohits.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(粤语简体)
+https://tv.zhku.tk//hls/hbohits2.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(普通话繁体)
+https://tv.zhku.tk//hls/hbohits3.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(普通话简体)
+https://tv.zhku.tk//hls/hbohits4.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(英语繁体)
+https://tv.zhku.tk//hls/hbohits5.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(英语简体)
+https://tv.zhku.tk//hls/hbohits6.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Hits(英语英文)
+https://tv.zhku.tk//hls/hbohits7.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(粤语繁体)
+https://tv.zhku.tk//hls/hbofamily.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(粤语简体)
+https://tv.zhku.tk//hls/hbofamily2.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(普通话繁体)
+https://tv.zhku.tk//hls/hbofamily3.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(普通话简体)
+https://tv.zhku.tk//hls/hbofamily4.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(英语繁体)
+https://tv.zhku.tk//hls/hbofamily5.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(英语简体)
+https://tv.zhku.tk//hls/hbofamily6.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Family(英语英文)
+https://tv.zhku.tk//hls/hbofamily7.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(粤语繁体)
+https://tv.zhku.tk//hls/hbosignature.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(粤语简体)
+https://tv.zhku.tk//hls/hbosignature2.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(普通话繁体)
+https://tv.zhku.tk//hls/hbosignature3.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(普通话简体)
+https://tv.zhku.tk//hls/hbosignature4.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(英语繁体)
+https://tv.zhku.tk//hls/hbosignature5.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(英语简体)
+https://tv.zhku.tk//hls/hbosignature6.m3u8
+#EXTINF:-1 group-title="电影频道",HBO Signature(英语英文)
+https://tv.zhku.tk//hls/hbosignature7.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(粤语繁体)
+https://tv.zhku.tk//hls/cinemax.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(粤语简体)
+https://tv.zhku.tk//hls/cinemax2.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(普通话繁体)
+https://tv.zhku.tk//hls/cinemax3.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(普通话简体)
+https://tv.zhku.tk//hls/cinemax4.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(英语繁体)
+https://tv.zhku.tk//hls/cinemax5.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(英语简体)
+https://tv.zhku.tk//hls/cinemax6.m3u8
+#EXTINF:-1 group-title="电影频道",CINEMAX(英语英文)
+https://tv.zhku.tk//hls/cinemax7.m3u8
+#EXTINF:-1 group-title="电影频道",Paramount Network
+https://tv.zhku.tk//hls/paramount.m3u8
+#EXTINF:-1 group-title="电影频道",KIX
+https://tv.zhku.tk//hls/kix.m3u8
+#EXTINF:-1 group-title="电影频道",Thrill
+https://tv.zhku.tk//hls/thrill.m3u8
+#EXTINF:-1 group-title="电影频道",Thrill(第2声道)
+https://tv.zhku.tk//hls/thrill2.m3u8
+#EXTINF:-1 group-title="电影频道",凤凰电影
+https://tv.zhku.tk//hls/fhdy.m3u8
+#EXTINF:-1 group-title="动漫频道",Animax
+https://tv.zhku.tk//hls/animax.m3u8
+#EXTINF:-1 group-title="动漫频道",Animax(第2声道)
+https://tv.zhku.tk//hls/animax2.m3u8
+#EXTINF:-1 group-title="动漫频道",Hands Up Channel
+https://tv.zhku.tk//hls/kid.m3u8
+#EXTINF:-1 group-title="动漫频道",Hands Up Channel(第2声道)
+https://tv.zhku.tk//hls/kid2.m3u8
+#EXTINF:-1 group-title="纪录频道",CCTV-9高清
+https://tv.zhku.tk//hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="纪录频道",Discovery
+https://tv.zhku.tk//hls/discovery.m3u8
+#EXTINF:-1 group-title="纪录频道",Discovery科学
+https://tv.zhku.tk//hls/discoverysci.m3u8
+#EXTINF:-1 group-title="纪录频道",动物星球
+https://tv.zhku.tk//hls/animal.m3u8
+#EXTINF:-1 group-title="纪录频道",动物星球(第2声道)
+https://tv.zhku.tk//hls/animal2.m3u8
+#EXTINF:-1 group-title="纪录频道",BBC Earth
+https://tv.zhku.tk//hls/bbcearth.m3u8
+#EXTINF:-1 group-title="纪录频道",Love Nature 4K
+https://tv.zhku.tk//hls/ln4k.m3u8
+#EXTINF:-1 group-title="纪录频道",史密森頻道
+https://tv.zhku.tk//hls/smithsonian.m3u8
+#EXTINF:-1 group-title="纪录频道",BBC Lifestyle
+https://tv.zhku.tk//hls/bbclifestyle.m3u8
+#EXTINF:-1 group-title="纪录频道",国家地理
+https://tv.zhku.tk//hls/natlgeo.m3u8
+#EXTINF:-1 group-title="纪录频道",国家地理(第2声道)
+https://tv.zhku.tk//hls/natlgeo2.m3u8
+#EXTINF:-1 group-title="纪录频道",瞬间看地球
+https://tv.zhku.tk//hls/earth.m3u8
