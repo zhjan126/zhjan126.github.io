@@ -11,14 +11,14 @@ https://dm1133.kglink.xyz/live/03
 https://dm1133.kglink.xyz/live/05
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻频道",CCTV13-新闻频道
 https://tv.zhku.tk//hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="新闻频道",娱乐新闻台
-https://tv.zhku.tk//hls/enews.m3u8
-#EXTINF:-1 group-title="新闻频道",BBC新闻频道
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="新闻频道",BBC World News
 https://tv.zhku.tk//hls/bbcnews.m3u8
-#EXTINF:-1 group-title="新闻频道",CNN新闻频道
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻频道",CNN
 https://tv.zhku.tk//hls/cnn.m3u8
 #EXTINF:-1 group-title="新闻频道",今日俄罗斯电视台
 https://tv.zhku.tk//hls/rt.m3u8
+#EXTINF:-1 group-title="新闻频道",娱乐新闻台
+https://tv.zhku.tk//hls/enews.m3u8
 
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://tv.zhku.tk//hls/jadehk.m3u8
@@ -47,17 +47,17 @@ https://tv.zhku.tk//hls/rthk31.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
 https://tv.zhku.tk//hls/rthk32.m3u8
 
-#EXTINF:-1 group-title="纪录频道",CCTV-9高清
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="纪录频道",CCTV-9
 https://tv.zhku.tk//hls/cctv9hd.m3u8
-#EXTINF:-1 group-title="纪录频道",Discovery
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪录频道",Discovery
 https://tv.zhku.tk//hls/discovery.m3u8
-#EXTINF:-1 group-title="纪录频道",Discovery科学
+#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png"group-title="纪录频道",Discovery科学
 https://tv.zhku.tk//hls/discoverysci.m3u8
-#EXTINF:-1 group-title="纪录频道",动物星球
+#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="纪录频道",动物星球
 https://tv.zhku.tk//hls/animal.m3u8
-#EXTINF:-1 group-title="纪录频道",动物星球(第2声道)
+#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="纪录频道",动物星球(第2声道)
 https://tv.zhku.tk//hls/animal2.m3u8
-#EXTINF:-1 group-title="纪录频道",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="纪录频道",BBCEarth
 https://tv.zhku.tk//hls/bbcearth.m3u8
 #EXTINF:-1 group-title="纪录频道",Love Nature 4K
 https://tv.zhku.tk//hls/ln4k.m3u8
@@ -65,16 +65,16 @@ https://tv.zhku.tk//hls/ln4k.m3u8
 https://tv.zhku.tk//hls/smithsonian.m3u8
 #EXTINF:-1 group-title="纪录频道",BBC Lifestyle
 https://tv.zhku.tk//hls/bbclifestyle.m3u8
-#EXTINF:-1 group-title="纪录频道",国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录频道",国家地理
 https://tv.zhku.tk//hls/natlgeo.m3u8
-#EXTINF:-1 group-title="纪录频道",国家地理(第2声道)
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录频道",国家地理(第2声道)
 https://tv.zhku.tk//hls/natlgeo2.m3u8
 #EXTINF:-1 group-title="纪录频道",瞬间看地球
 https://tv.zhku.tk//hls/earth.m3u8
 
-#EXTINF:-1 group-title="体育频道",CCTV-5高清
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育频道",CCTV5-体育频道
 https://tv.zhku.tk//hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV-5+高清
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育频道",CCTV5+体育赛事
 https://tv.zhku.tk//hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gd_tiyu.png" group-title="体育频道",广东体育
 https://tv.zhku.tk//hls/gdtyhd.m3u8
@@ -295,11 +295,11 @@ https://tv.zhku.tk//hls/thrill.m3u8
 https://tv.zhku.tk//hls/thrill2.m3u8
 #EXTINF:-1 group-title="电影频道",凤凰电影
 https://tv.zhku.tk//hls/fhdy.m3u8
-#EXTINF:-1 group-title="动漫频道",Animax
+#EXTINF:-1 group-title="电影频道",Animax
 https://tv.zhku.tk//hls/animax.m3u8
-#EXTINF:-1 group-title="动漫频道",Animax(第2声道)
+#EXTINF:-1 group-title="电影频道",Animax(第2声道)
 https://tv.zhku.tk//hls/animax2.m3u8
-#EXTINF:-1 group-title="动漫频道",Hands Up Channel
+#EXTINF:-1 group-title="电影频道",Hands Up Channel
 https://tv.zhku.tk//hls/kid.m3u8
-#EXTINF:-1 group-title="动漫频道",Hands Up Channel(第2声道)
+#EXTINF:-1 group-title="电影频道",Hands Up Channel(第2声道)
 https://tv.zhku.tk//hls/kid2.m3u8
