@@ -36,7 +36,7 @@ https://tv.zhku.tk//hls/inews.m3u8
 https://tv.zhku.tk//hls/finance.m3u8
 #EXTINF:-1 group-title="香港"  tvg-name="TVB Xing He HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河频道
 https://tv.zhku.tk//hls/tvbxh.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB经典台
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png",TVB经典台
 https://tv.zhku.tk//hls/tvbjd.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
 https://dm1133.kglink.xyz/live/06
