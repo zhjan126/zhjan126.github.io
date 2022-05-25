@@ -51,21 +51,21 @@ https://tv.zhku.tk//hls/rthk32.m3u8
 https://tv.zhku.tk//hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="纪录频道",CCTV10-科教频道
 https://tv.zhku.tk//hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪录频道",Discovery
+#EXTINF:-1 tvg-id="448" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪录频道",Discovery
 https://tv.zhku.tk//hls/discovery.m3u8
-#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png"group-title="纪录频道",Discovery科学
+#EXTINF:-1 tvg-id="448" tvg-name="Discovery科学" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Discovery-logo.png"group-title="纪录频道",Discovery科学
 https://tv.zhku.tk//hls/discoverysci.m3u8
-#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="纪录频道",动物星球
+#EXTINF:-1 tvg-id="450" tvg-name="动物星球"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="纪录频道",动物星球
 https://tv.zhku.tk//hls/animal.m3u8
-#EXTINF:-1 tvg-id="discovery" group-title="人文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="纪录频道",动物星球(第2声道)
+#EXTINF:-1 tvg-id="450" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"group-title="纪录频道",动物星球(第2声道)
 https://tv.zhku.tk//hls/animal2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="纪录频道",BBCEarth
+#EXTINF:-1 tvg-id="484" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="纪录频道",BBCEarth
 https://tv.zhku.tk//hls/bbcearth.m3u8
 #EXTINF:-1 group-title="纪录频道",Love Nature 4K
 https://tv.zhku.tk//hls/ln4k.m3u8
 #EXTINF:-1 group-title="纪录频道",史密森頻道
 https://tv.zhku.tk//hls/smithsonian.m3u8
-#EXTINF:-1 group-title="纪录频道",BBC Lifestyle
+#EXTINF:-1 tvg-id="463" tvg-name="BBC Lifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="纪录频道",BBC Lifestyle
 https://tv.zhku.tk//hls/bbclifestyle.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录频道",国家地理
 https://tv.zhku.tk//hls/natlgeo.m3u8
@@ -104,7 +104,7 @@ https://tv.zhku.tk//hls/cctv5phd.m3u8
 https://tv.zhku.tk//hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7-国防军事
 https://tv.zhku.tk//hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8-电视剧
 https://tv.zhku.tk//hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9-记录频道
 https://tv.zhku.tk//hls/cctv9hd.m3u8
@@ -116,7 +116,7 @@ https://tv.zhku.tk//hls/cctv11hd.m3u8
 https://tv.zhku.tk//hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13-新闻频道
 https://tv.zhku.tk//hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14-少儿
 https://tv.zhku.tk//hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15-音乐频道
 https://tv.zhku.tk//hls/cctv15hd.m3u8
@@ -205,87 +205,87 @@ https://tv.zhku.tk//hls/yxfyhd.m3u8
 #EXTINF:-1 group-title="特色频道",足球频道
 https://tv.zhku.tk//hls/zqhd.m3u8
 
-#EXTINF:-1 group-title="电影频道",CCTV-6高清
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影频道",CCTV6-电影频道
 https://tv.zhku.tk//hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="电影频道",CHC高清电影
+#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影频道",CHC高清电影
 https://tv.zhku.tk//hls/chchd.m3u8
-#EXTINF:-1 group-title="电影频道",美亚电影台(普通话)
+#EXTINF:-1 tvg-id="242" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影频道",美亚电影台(普通话)
 https://tv.zhku.tk//hls/mydy2.m3u8
-#EXTINF:-1 group-title="电影频道",美亚电影台(粤语)
+#EXTINF:-1 tvg-id="242" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影频道",美亚电影台(粤语)
 https://tv.zhku.tk//hls/mydy.m3u8
 #EXTINF:-1 group-title="电影频道",天映频道
 https://tv.zhku.tk//hls/typd.m3u8
 #EXTINF:-1 group-title="电影频道",卫视电影台
 https://tv.zhku.tk//hls/starmovies.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(粤语繁体)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(粤语繁体)
 https://tv.zhku.tk//hls/hbo.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(粤语简体)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(粤语简体)
 https://tv.zhku.tk//hls/hbo2.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(普通话繁体)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(普通话繁体)
 https://tv.zhku.tk//hls/hbo3.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(普通话简体)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(普通话简体)
 https://tv.zhku.tk//hls/hbo4.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(英语繁体)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(英语繁体)
 https://tv.zhku.tk//hls/hbo5.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(英语简体)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(英语简体)
 https://tv.zhku.tk//hls/hbo6.m3u8
-#EXTINF:-1 group-title="电影频道",HBO(英语英文)
+#EXTINF:-1 tvg-id="466" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO(英语英文)
 https://tv.zhku.tk//hls/hbo7.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(粤语繁体)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(粤语繁体)
 https://tv.zhku.tk//hls/hbohits.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(粤语简体)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(粤语简体)
 https://tv.zhku.tk//hls/hbohits2.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(普通话繁体)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(普通话繁体)
 https://tv.zhku.tk//hls/hbohits3.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(普通话简体)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(普通话简体)
 https://tv.zhku.tk//hls/hbohits4.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(英语繁体)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(英语繁体)
 https://tv.zhku.tk//hls/hbohits5.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(英语简体)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(英语简体)
 https://tv.zhku.tk//hls/hbohits6.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Hits(英语英文)
+#EXTINF:-1 tvg-id="467" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits(英语英文)
 https://tv.zhku.tk//hls/hbohits7.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(粤语繁体)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(粤语繁体)
 https://tv.zhku.tk//hls/hbofamily.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(粤语简体)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(粤语简体)
 https://tv.zhku.tk//hls/hbofamily2.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(普通话繁体)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(普通话繁体)
 https://tv.zhku.tk//hls/hbofamily3.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(普通话简体)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(普通话简体)
 https://tv.zhku.tk//hls/hbofamily4.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(英语繁体)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(英语繁体)
 https://tv.zhku.tk//hls/hbofamily5.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(英语简体)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(英语简体)
 https://tv.zhku.tk//hls/hbofamily6.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Family(英语英文)
+#EXTINF:-1 tvg-id="469" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family(英语英文)
 https://tv.zhku.tk//hls/hbofamily7.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(粤语繁体)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(粤语繁体)
 https://tv.zhku.tk//hls/hbosignature.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(粤语简体)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(粤语简体)
 https://tv.zhku.tk//hls/hbosignature2.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(普通话繁体)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(普通话繁体)
 https://tv.zhku.tk//hls/hbosignature3.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(普通话简体)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(普通话简体)
 https://tv.zhku.tk//hls/hbosignature4.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(英语繁体)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(英语繁体)
 https://tv.zhku.tk//hls/hbosignature5.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(英语简体)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(英语简体)
 https://tv.zhku.tk//hls/hbosignature6.m3u8
-#EXTINF:-1 group-title="电影频道",HBO Signature(英语英文)
+#EXTINF:-1 tvg-id="468" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature(英语英文)
 https://tv.zhku.tk//hls/hbosignature7.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(粤语繁体)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(粤语繁体)
 https://tv.zhku.tk//hls/cinemax.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(粤语简体)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(粤语简体)
 https://tv.zhku.tk//hls/cinemax2.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(普通话繁体)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(普通话繁体)
 https://tv.zhku.tk//hls/cinemax3.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(普通话简体)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(普通话简体)
 https://tv.zhku.tk//hls/cinemax4.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(英语繁体)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(英语繁体)
 https://tv.zhku.tk//hls/cinemax5.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(英语简体)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(英语简体)
 https://tv.zhku.tk//hls/cinemax6.m3u8
-#EXTINF:-1 group-title="电影频道",CINEMAX(英语英文)
+#EXTINF:-1 tvg-id="455" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX(英语英文)
 https://tv.zhku.tk//hls/cinemax7.m3u8
 #EXTINF:-1 group-title="电影频道",Paramount Network
 https://tv.zhku.tk//hls/paramount.m3u8
@@ -297,9 +297,9 @@ https://tv.zhku.tk//hls/thrill.m3u8
 https://tv.zhku.tk//hls/thrill2.m3u8
 #EXTINF:-1 group-title="电影频道",凤凰电影
 https://tv.zhku.tk//hls/fhdy.m3u8
-#EXTINF:-1 group-title="电影频道",Animax
+#EXTINF:-1 tvg-id="495" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="电影频道",Animax
 https://tv.zhku.tk//hls/animax.m3u8
-#EXTINF:-1 group-title="电影频道",Animax(第2声道)
+#EXTINF:-1 tvg-id="495" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="电影频道",Animax(第2声道)
 https://tv.zhku.tk//hls/animax2.m3u8
 #EXTINF:-1 group-title="电影频道",Hands Up Channel
 https://tv.zhku.tk//hls/kid.m3u8
