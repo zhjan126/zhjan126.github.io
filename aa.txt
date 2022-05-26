@@ -332,3 +332,78 @@ https://tv.zhku.tk//hls/animax2.m3u8
 https://tv.zhku.tk//hls/kid.m3u8
 #EXTINF:-1 group-title="电影频道",Hands Up Channel(第2声道)
 https://tv.zhku.tk//hls/kid2.m3u8
+
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="本地测试",凤凰中文
+http://192.168.0.8:8000/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="本地测试",凤凰资讯
+http://192.168.0.8:8000/hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="本地测试",无线新闻
+http://192.168.0.8:8000/hls/inews.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="本地测试",HKC有线新闻台
+https://dm1133.kglink.xyz/live/03
+#EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="本地测试",NOW新闻台
+https://dm1133.kglink.xyz/live/05
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="本地测试",CCTV13-新闻频道
+http://192.168.0.8:8000/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="本地测试",BBC World News
+http://192.168.0.8:8000/hls/bbcnews.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="本地测试",CNN
+http://192.168.0.8:8000/hls/cnn.m3u8
+#EXTINF:-1 group-title="本地测试",今日俄罗斯电视台
+http://192.168.0.8:8000/hls/rt.m3u8
+#EXTINF:-1 group-title="本地测试",娱乐新闻台
+http://192.168.0.8:8000/hls/enews.m3u8
+
+#EXTINF:-1 group-title="本地测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://192.168.0.8:8000/hls/jadehk.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台海外版
+http://192.168.0.8:8000/hls/jadenhk.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
+http://192.168.0.8:8000/hls/j2.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
+http://192.168.0.8:8000/hls/pearl.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台 (第2声道)
+http://192.168.0.8:8000/hls/pearl2.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="本地测试",无线新闻
+http://192.168.0.8:8000/hls/inews.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
+http://192.168.0.8:8000/hls/finance.m3u8
+#EXTINF:-1 group-title="本地测试"  tvg-name="TVB Xing He HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河频道
+http://192.168.0.8:8000/hls/tvbxh.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png",TVB经典台
+http://192.168.0.8:8000/hls/tvbjd.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="本地测试",香港开电视
+https://dm1133.kglink.xyz/live/06
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="本地测试",VIUTV CF
+http://192.168.0.8:8000/hls/viutv.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
+http://192.168.0.8:8000/hls/rthk31.m3u8
+#EXTINF:-1 group-title="本地测试" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
+http://192.168.0.8:8000/hls/rthk32.m3u8
+#EXTINF:-1 group-title="本地测试",TVB功夫台(粤语)
+http://192.168.0.8:8000/hls/tvbkf.m3u8
+#EXTINF:-1 group-title="本地测试",黄金翡翠台
+http://192.168.0.8:8000/hls/jadegold.m3u8
+#EXTINF:-1 group-title="本地测试",娱乐新闻台
+http://192.168.0.8:8000/hls/enews.m3u8
+#EXTINF:-1 group-title="本地测试",TVB亚洲综艺台
+http://192.168.0.8:8000/hls/tvbzy.m3u8
+#EXTINF:-1 group-title="本地测试",TVB华语剧台
+http://192.168.0.8:8000/hls/tvbhy.m3u8
+#EXTINF:-1 group-title="本地测试",TVB亚洲剧台
+http://192.168.0.8:8000/hls/tvbyz.m3u8
+#EXTINF:-1 group-title="本地测试",TVB戏曲台
+http://192.168.0.8:8000/hls/tvbxq.m3u8
+#EXTINF:-1 group-title="本地测试",美亚电影台(粤语)
+http://192.168.0.8:8000/hls/mydy.m3u8
+#EXTINF:-1 group-title="本地测试",美亚电影台(普通话)
+http://192.168.0.8:8000/hls/mydy2.m3u8
+#EXTINF:-1 group-title="本地测试",天映经典
+http://192.168.0.8:8000/hls/tyjd.m3u8
+#EXTINF:-1 group-title="本地测试",天映经典(第2声道)
+http://192.168.0.8:8000/hls/tyjd2.m3u8
+#EXTINF:-1 group-title="本地测试",天映频道
+http://192.168.0.8:8000/hls/typd.m3u8
+#EXTINF:-1 group-title="本地测试",卫视电影台
+http://192.168.0.8:8000/hls/starmovies.m3u8
