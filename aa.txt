@@ -5,10 +5,6 @@ https://tv.zhku.tk//hls/fhzw.m3u8
 https://tv.zhku.tk//hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻频道",无线新闻
 https://tv.zhku.tk//hls/inews.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻频道",HKC有线新闻台
-https://dm1133.kglink.xyz/live/03
-#EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻频道",NOW新闻台
-https://dm1133.kglink.xyz/live/05
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="新闻频道",CCTV13-新闻频道
 https://tv.zhku.tk//hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="新闻频道",BBC World News
