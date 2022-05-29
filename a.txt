@@ -14,16 +14,8 @@ http://120.84.96.29:808/hls/86/index.m3u8
 https://tv.zhku.tk//hls/pearl2.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻CF
 https://tv.zhku.tk//hls/inews.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻",无线新闻
-https://dm1133.kglink.xyz/live/01
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="新闻",HKC有线新闻台
-https://dm1133.kglink.xyz/live/03
-#EXTINF:-1 tvg-id="7122" tvg-name="Now新聞台" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="新闻",NOW新闻台
-https://dm1133.kglink.xyz/live/05
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="新闻",无线财经CF
 https://tv.zhku.tk//hls/finance.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="新闻",香港开电视
-https://dm1133.kglink.xyz/live/06
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="新闻",VIUTV CF
 https://tv.zhku.tk//hls/viutv.m3u8
 
